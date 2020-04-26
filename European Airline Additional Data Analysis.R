@@ -3,7 +3,7 @@
 
 
 library(readxl)
-data <- read_excel("Air France Case Spreadsheet Supplement.xls", sheet = 2)
+data <- read_excel("European Airline Case Spreadsheet Supplement.xls", sheet = 2)
 View(data)
 
 # Call packages
