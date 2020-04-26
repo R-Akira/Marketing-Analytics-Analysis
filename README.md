@@ -1,2 +1,2 @@
-# Marketing-Analytics-Analysis
+# Marketing-Analytics-Data Analysis
 A Project to Analyze Digital Marketing Metrics of A Major Airline Company
